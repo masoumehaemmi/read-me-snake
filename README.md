@@ -1,2 +1,1 @@
-# read-me-snake
-readme.ma
+My first readme in GateHub :)
